@@ -1,0 +1,5 @@
+1;Bolacha;12.0
+2;Melancia;13.6
+3;Banana;5.7
+4;Donut;5.8
+5;Pão com ovo;6.0
