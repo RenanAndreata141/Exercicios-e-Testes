@@ -1,0 +1,42 @@
+#cadastrar:hover {
+    background-color: rgb(84, 248, 125);
+    color:azure;
+}
+
+
+#icone{
+    width: 20px;
+    height: 20px;
+}
+
+table{
+    margin-top: -10%;
+    border-color: green;
+    margin-left: 30%;
+}
+
+#linha:hover{
+    background-color: rgb(5, 128, 128);
+    color: aliceblue;
+    font-family: fantasy;
+
+}
+
+input{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+
+thead{
+    background-color: rgb(5, 128, 128);
+    color: white;
+}
+
+#cab{
+    width: 100px;
+    height: 100px;
+}
+
+
